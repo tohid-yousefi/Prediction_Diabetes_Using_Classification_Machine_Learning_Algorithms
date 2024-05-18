@@ -1,0 +1,2 @@
+# Prediction_Diabetes_Using_Classification_Machine_Learning_Algorithms
+In this section we weill be predicting diabetes using classification machine learning algorithms
